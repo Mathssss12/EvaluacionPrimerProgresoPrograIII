@@ -105,7 +105,7 @@ public class Main {
     se ejecutan de una manera secuencial muy específica y sin bucles anidados, dando como resultado
     una simplificación asintóticamente a un comportamiento lineal. En cuanto al nivel espacial también es O(n),
     debido a que la Pila y la Cola utilizan memoria dinámica basada en Nodos, instanciando exactamente "n"
-    elementos en base al
+    elementos en base al tamaño de la palabra, lo que garantiza un uso eficiente de los recursos sin desperdiciar espacio estático.
      */
 
 }
